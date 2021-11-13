@@ -126,6 +126,7 @@
 
 (require 'init-folding)
 (require 'init-dash)
+(require 'init-evil)
 
 ;;(require 'init-twitter)
 ;; (require 'init-mu)
